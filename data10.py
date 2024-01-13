@@ -17,7 +17,7 @@ def extract_frames(video_path, output_folder):
     cap.release()
 
 video_folder = "C:\\Users\\User\\Desktop\\okul\\4\\bitirme projesi\\10\\dfdc_train_part_10"
-output_folder = "C:\\Users\\User\\Desktop\\okul\\4\\bitirme projesi\\10\\frames_for_10pt2"
+output_folder = "C:\\Users\\User\\Desktop\\okul\\4\\bitirme projesi\\10\\frames_for_10pt3"
 
 # Videoların olduğu klasördeki her bir videoyu işleyin
 for video_file in os.listdir(video_folder):
